@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:magma_cream"
+    },
+    "A": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "pattern": [
+    "###",
+    "#A#",
+    "###"
+  ],
+  "result": {
+    "item": "testmod:fire_core"
+  },
+  "show_notification": true
+}

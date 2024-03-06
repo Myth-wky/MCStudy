@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "testmod:test_block",
+    "testmod:test_block_ore",
+    "testmod:fire_core_block",
+    "testmod:diamond_door",
+    "testmod:diamond_slab"
+  ]
+}

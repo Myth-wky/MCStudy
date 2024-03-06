@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "testmod:fire_core_helmet",
+    "testmod:fire_core_chestplate",
+    "testmod:fire_core_leggings",
+    "testmod:fire_core_boots"
+  ]
+}

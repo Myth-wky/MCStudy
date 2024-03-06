@@ -1,0 +1,12 @@
+// 1.20	2024-03-02T21:55:46.6433868	Test Mod/Block Loot Tables
+e6844bfc467377926be626975adf8e0743a0b62e data\testmod\loot_tables\blocks\fire_core_block.json
+4ed4e1877a9b7302dd509e1f7dbd2c895878abb7 data\testmod\loot_tables\blocks\diamond_fence_gate.json
+83a67477863f69da18d2b3a6da5d094c25ef644b data\testmod\loot_tables\blocks\diamond_trapdoor.json
+6c8e1e4e10274bf426b4e7bdfa06f2c78768703c data\testmod\loot_tables\blocks\diamond_fence.json
+18edc6177bef3b3640c03b06987d4b21fd15a1f5 data\testmod\loot_tables\blocks\test_block_ore.json
+520fc353b72bbd6c9c218c39256bcc0831cb4a3d data\testmod\loot_tables\blocks\diamond_stair.json
+3dd7f5c851de4be8105e7358ef10bb0a4b3ddb55 data\testmod\loot_tables\blocks\diamond_door.json
+e5048620a33611e1b2f79baf8d0e0f2a7579b4dc data\testmod\loot_tables\blocks\diamond_slab.json
+2f13caab52f3afee5985b32d0d07effa31ad36ce data\testmod\loot_tables\blocks\diamond_button.json
+4f900be3184175cf94a3f08952381518845b2649 data\testmod\loot_tables\blocks\diamond_wall.json
+daf9a96b16e18a811160a5ac3823ece835d3c1de data\testmod\loot_tables\blocks\test_block.json

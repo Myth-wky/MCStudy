@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "testmod:block/diamond_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/diamond_block"
+    },
+    "type=top": {
+      "model": "testmod:block/diamond_slab_top"
+    }
+  }
+}

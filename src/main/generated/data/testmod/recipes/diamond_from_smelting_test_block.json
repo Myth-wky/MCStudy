@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.5,
+  "group": "test_block_smelting_to_diamond",
+  "ingredient": {
+    "item": "testmod:test_block"
+  },
+  "result": "minecraft:diamond"
+}

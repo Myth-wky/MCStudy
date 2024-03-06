@@ -1,0 +1,11 @@
+// 1.20	2024-03-02T21:55:46.6354085	Test Mod/Tags for minecraft:block
+70d67a561f893c4f2348488ad97d9310486012e9 data\testmod\tags\blocks\prospector_list.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\shovel.json
+9293db976d919143f0c82c035b80e5dab37e519d data\minecraft\tags\blocks\fence_gates.json
+f35271676fc49112d7497f117fc09045af6e6458 data\minecraft\tags\blocks\walls.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\axe.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\hoe.json
+5cbd776fec78d0e163159ea077565eb8f4349064 data\minecraft\tags\blocks\needs_iron_tool.json
+119ec77385b0a9aff91bce6d11a43905a691f6a2 data\minecraft\tags\blocks\fences.json
+20dcad410bc2c5c7dc2d9716fd898b7567343830 data\minecraft\tags\blocks\mineable\pickaxe.json
+40f3077b72e67f24ded9b7762b42267eede9a941 data\minecraft\tags\blocks\needs_stone_tool.json

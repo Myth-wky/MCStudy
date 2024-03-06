@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.5,
+  "group": "test_block_blasting_to_diamond",
+  "ingredient": {
+    "item": "testmod:test_block"
+  },
+  "result": "minecraft:diamond"
+}

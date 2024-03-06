@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "testmod:fire_core_block",
+    "testmod:test_block"
+  ]
+}
